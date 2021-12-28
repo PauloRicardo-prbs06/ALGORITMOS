@@ -1,2 +1,2 @@
-# ALGORITMOS
-aPRENDENDO ALGORITIMO
+# Estudos
+Aprendendo
